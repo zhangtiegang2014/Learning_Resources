@@ -92,6 +92,8 @@
 
 [java成神之路](https://hollischuang.github.io/toBeTopJavaer/#/menu)
 
+[java架构师笔记](https://zq99299.github.io/note-architect/hc/)
+
 
 ## 工具
 [latex公式编辑](https://www.codecogs.com/latex/eqneditor.php)
