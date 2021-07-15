@@ -71,6 +71,8 @@
 
 [离散对数问题](https://www.cnblogs.com/math/p/discrete-log.html)
 
+[椭圆曲线密码学简介](https://zhuanlan.zhihu.com/p/104531745)
+
 ## 区块链
 [精通以太坊](https://github.com/inoutcode/ethereum_book)
 
