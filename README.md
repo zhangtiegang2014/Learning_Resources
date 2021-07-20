@@ -61,6 +61,8 @@
 
 [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3133956.3133982)
 
+[Parallel Distributed Logistic Regression for Vertical Federated Learning without Third-Party Coordinator](https://arxiv.org/abs/1911.09824)
+
 [联邦学习论文汇总](https://github.com/tanjuntao/VFL_paper_list)
 
 [paillier同态加密算法推导](https://zhuanlan.zhihu.com/p/106340045?utm_source=weibo)
