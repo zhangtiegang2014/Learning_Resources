@@ -100,6 +100,8 @@
 
 [架构师之路](https://www.cnblogs.com/zhumengke/articles/12172676.html)
 
+[DDD架构](https://zq99299.github.io/note-book2/ddd/#推荐阅读)
+
 
 ## 工具
 [latex公式编辑](https://www.codecogs.com/latex/eqneditor.php)
