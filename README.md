@@ -90,12 +90,16 @@
 
 [从零开始学习zk-SNARK（上篇论文的翻译）](https://zhuanlan.zhihu.com/p/99260386)
 
+[circom与snarkjs经典教程：创建第一个零知识 snark 电路](https://learnblockchain.cn/article/1078)
+
 ## 大数据
 [大数据成神之路](https://github.com/wangzhiwubigdata/God-Of-BigData)
 
 [大数据私房菜博客](https://my.oschina.net/u/4631230)
 
 [spark调优](https://tech.meituan.com/2016/04/29/spark-tuning-basic.html)
+
+[推荐系统学习笔记](https://xfliu1998.github.io/2022/01/18/5.1-Recommendation-System-Introduction/)
 
 ## java
 [springCloud最佳项目及教程](https://github.com/macrozheng/mall-swarm)
