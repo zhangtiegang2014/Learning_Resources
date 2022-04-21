@@ -101,6 +101,8 @@
 
 [推荐系统学习笔记](https://xfliu1998.github.io/2022/01/18/5.1-Recommendation-System-Introduction/)
 
+[HBase 底层原理详解（深度好文，建议收藏）](https://cloud.tencent.com/developer/news/758459)
+
 ## java
 [springCloud最佳项目及教程](https://github.com/macrozheng/mall-swarm)
 
